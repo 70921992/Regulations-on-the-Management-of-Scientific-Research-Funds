@@ -1,2 +1,2 @@
-# MyPamphlet-Blog
-Blog of MyPamphlet
+# 科研经费管理规定
+
